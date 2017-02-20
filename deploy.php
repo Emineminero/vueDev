@@ -16,7 +16,6 @@
 		'git submodule sync',
 		'git submodule update',
 		'git submodule status',
-		'npm run dev',
 	);
 
 	// Run the commands for output
