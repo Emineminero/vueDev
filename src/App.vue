@@ -12,10 +12,6 @@
     <h2>Ecosystem</h2>
     <h1>MAIAMEEEEE</h1>
   </div>
-  <div id="app-5">
-  <p>{{ message }}</p>
-  <button v-on:click="reverseMessage">Reverse Message</button>
-  </div>
 </template>
 
 <script>
