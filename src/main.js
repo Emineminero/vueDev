@@ -5,7 +5,7 @@ new Vue({
   el: '#app',
   render: h => h(App)
 });
-var app5 = new Vue({
+new Vue({
   el: '#app-5',
   data: {
     message: 'Hello Vue.js!'
