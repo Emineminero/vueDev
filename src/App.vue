@@ -19,7 +19,7 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'Welcome to Your App'
+      msg: 'Welcome tos Your App'
     }
   }
 }
